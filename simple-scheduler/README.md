@@ -113,12 +113,4 @@ It also calculates and displays the average wait and completion times for all jo
 
 - Implementing more advanced scheduling algorithms like Shortest Job First (SJF) or Multi-Level Queue Scheduling.
 - Adding support for job preemption based on priorities.
-
----
-
-## Contributing
-
-- Sahil Amrawat 2023462
-- Vikas Meena 2023593
-
 ---
